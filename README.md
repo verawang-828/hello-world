@@ -1,2 +1,3 @@
 # hello-world
-第一次使用github
+use github at first time
+change readme file and review it.
